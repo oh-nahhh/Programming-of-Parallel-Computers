@@ -1,3 +1,7 @@
+//Assignment - Fox's Algorithm MPI
+//Niklas Bergqvist
+
+
 //libraries
 #include <stdio.h>
 #include <stdlib.h>

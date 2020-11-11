@@ -1,3 +1,7 @@
+//Assignment Quick Sort Pthreads
+//Niklas Bergqvist
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <pthread.h>

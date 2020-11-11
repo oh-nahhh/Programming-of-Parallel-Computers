@@ -1,3 +1,5 @@
+%Speed up plots
+
 clear all; clc;
 threads  = [1,2,4,8,11,14];
 

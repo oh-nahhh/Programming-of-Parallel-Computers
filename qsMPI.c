@@ -1,3 +1,6 @@
+//Assignment Quick Sort MPI
+//Niklas Bergqvist
+
 //libraries
 #include <mpi.h>
 #include <stdio.h>
