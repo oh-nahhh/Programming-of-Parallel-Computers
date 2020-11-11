@@ -1,8 +1,6 @@
 //Assignment 1
 //Niklas Bergqvist
 
-
-
 // mpitest.cpp : Defines the entry point for the console application.
 //
 
