@@ -1,2 +1,1 @@
-# Programming-of-Parallel-Computers
-Programming-of-Parallel-Computers-1TD480
+Parallel Programming course 1TD480
