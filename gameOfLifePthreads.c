@@ -1,5 +1,6 @@
 //Final Project - Game of Life Pthreads
 //Niklas Bergqvist
+//Game of Life in parallel
 
 //Libraries
 #include <stdio.h>

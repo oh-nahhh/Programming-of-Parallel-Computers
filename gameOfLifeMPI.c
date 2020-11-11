@@ -1,5 +1,6 @@
 //Final Project - Game of Life MPI
 //Niklas Bergqvist
+//Game of Life in parallel
 
 //libraries
 #include <stdio.h>
