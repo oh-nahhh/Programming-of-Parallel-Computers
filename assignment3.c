@@ -1,3 +1,6 @@
+//Niklas Bergqvist
+//Assigment 3 - OpenMP
+
 //Libraries
 #include <math.h>
 #include <stdio.h>
